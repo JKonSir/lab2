@@ -170,6 +170,8 @@ public class Main {
         System.out.println(f.getClass());
         System.out.println(f);
 
+        System.out.println("Hello, World!!!");
+
 //        TabulatedFunction tabulatedFunction;
 //        FunctionPoint[] functionPoint = new FunctionPoint[]{
 //                new FunctionPoint(0, 0),
